@@ -28,30 +28,9 @@ Funcionalidade: Home - logado
     Quando ao clicar no botao clique aqui e confira seus resultados
     Entao valido o direcionamento para pagina resultados
 
-  Esquema do Cenario: meus atalhos logado- <opcaoatalho>
-    Quando ao clicar no card <opcaoatalho>
-    Entao valido o direcionamento para a pagina <paginadirecionada>
-
-  Exemplos:
-  |opcaoatalho              |paginadirecionada          |
-  |conferir sorteios        |resultados                 |
-  |meus pedidos             |meus pedidos               |
-  |meus titulos             |meus titulos               |
-
-
   Cenario: clicar o botao veja mais sobre a fundacao abrinq
     Quando ao clicar no botao veja mais sobre a fundacao abrinq
     Entao valido o direcionamento para a pagina Instituicao beneficiada
-
-  Esquema do Cenario: Secao tem alguma duvida acesse nossa faq - <linkfaq>
-    Quando ao clicar <linkfaq>
-    Entao valido o direcionamento para pagina <paginadirecionada>
-
-  Exemplos:
-  |linkfaq                        |paginadirecionada         |
-  |ler mais 1                     |faq1                      |
-  |ler mais 2                     |faq2                      |
-  |ver mais duvidas frequentes    |faq                       |
 
 
 

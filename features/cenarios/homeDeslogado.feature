@@ -28,15 +28,17 @@ Funcionalidade: Home - deslogado
 
   Exemplos:
   |opcaoatalho              |paginadirecionada          |
-  |conferir sorteios        |resultados                 |
-  |meus pedidos             |login                      |
-  |meus titulos             |login                      |
+  |comprar titulo           |como comprar               |
+  |conferir resultados      |resultados                 |
+  |veja instituição         |fundacao abrinq            |
+  |loja mobile android      |google play                |
+  |loja mobile ios          |app store                  |
 
 #validar o campo login
   
-  Cenario: clicar o botao veja mais sobre a fundacao abrinq
-    Quando ao clicar no botao veja mais sobre a fundacao abrinq
-    Entao valido o direcionamento para pagina Instituicao beneficiada
+  #Cenario: clicar o botao veja mais sobre a fundacao abrinq
+    #Quando ao clicar no botao veja mais sobre a fundacao abrinq
+    #Entao valido o direcionamento para pagina Instituicao beneficiada
 
   Esquema do Cenario: Secao tem alguma duvida acesse nossa faq - <linkfaq>
     Quando ao clicar no link da faq <linkfaq>
@@ -44,9 +46,10 @@ Funcionalidade: Home - deslogado
 
   Exemplos:
   |linkfaq                        |paginadirecionada         |
+  |ver mais duvidas frequentes    |faq                       |
   |ler mais 1                     |faq1                      |
   |ler mais 2                     |faq2                      |
-  |ver mais duvidas frequentes    |faq                       |
+ 
 
 
 

@@ -21,5 +21,6 @@ Funcionalidade: barra de navegacao - logado
   |opcaomenu           | paginadirecionada |
   |minha conta         | minha conta       |
   |meus titulos        | meus titulos      |
+  |minhas premiações   | minhas premiações |
   |meus dados          | meus dados        |
   |sair                | home              |
