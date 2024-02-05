@@ -32,7 +32,7 @@ def step_impl(context):
 #  clicar no banner vantagens do ame premiada
 @when(u'ao clicar no banner vantagens do ame premiada')
 def step_impl(context):
-    context.home.clicarNoBannerVantagensDoBemDaSorte()
+    context.home.clicarNoBannerVantagensDoamepremiada()
 
 
 # premiacao sem complicacao - pagina premiacoes logado
@@ -57,8 +57,8 @@ def step_impl(context):
     context.home.clicarNoCardMeusTitulos()
 
 
-# clicar o botao veja mais sobre a fundacao abrinq
-@when(u'ao clicar no botao veja mais sobre a fundacao abrinq')
+# clicar o botao veja mais sobre a Instituicao beneficiada
+@when(u'ao clicar no botao veja mais sobre a Instituicao beneficiada')
 def step_impl(context):
     context.home.clicarNoBotaoVejaMaisSobreAFundacaoAbrinq()
 

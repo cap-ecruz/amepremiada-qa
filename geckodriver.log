@@ -4094,13 +4094,13 @@ Read port: 52532
 1695306898649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:52500/devtools/browser/346b15a9-5ea2-4ac1-9b3e-f312040ee41f
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://staging.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://staging.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
-JavaScript warning: https://staging.bemdasorte.com.br/#/login.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://staging.bemdasorte.com.br/#/login.html line 1 > injectedScript, line 43: WebGL context was lost.
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://staging.bemdasorte.com.br."
-JavaScript warning: https://staging.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
-f@https://staging.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
+JavaScript warning: https://staging.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://staging.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://staging.amepremiada.com.br/#/login.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://staging.amepremiada.com.br/#/login.html line 1 > injectedScript, line 43: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://staging.amepremiada.com.br."
+JavaScript warning: https://staging.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
+f@https://staging.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
 
 1695306916055	Marionette	INFO	Stopped listening on port 52532
 Dynamically enable window occlusion 1
@@ -4115,11 +4115,11 @@ Read port: 59336
 WebDriver BiDi listening on ws://127.0.0.1:59320
 1695646795777	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:59320/devtools/browser/96a24bc8-b937-4d39-a042-f55761672147
-JavaScript warning: https://staging.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://staging.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://staging.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://staging.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://staging.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://staging.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://staging.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://staging.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://code.jquery.com/jquery-migrate-3.4.1.min.js, line 2: Script terminated by timeout at:
 @https://code.jquery.com/jquery-migrate-3.4.1.min.js:2:2591
 a/e[t]@https://code.jquery.com/jquery-migrate-3.4.1.min.js:2:1582
@@ -4144,11 +4144,11 @@ Read port: 57909
 WebDriver BiDi listening on ws://127.0.0.1:57902
 1695647355349	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:57902/devtools/browser/3ccacd9e-10c2-4331-8ea9-976965cbd754
-JavaScript warning: https://staging.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://staging.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://staging.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://staging.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://staging.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://staging.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://staging.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://staging.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 JavaScript warning: https://code.jquery.com/jquery-3.7.0.min.js, line 2: Script terminated by timeout at:
 I@https://code.jquery.com/jquery-3.7.0.min.js:2:6663
@@ -4175,11 +4175,11 @@ WebDriver BiDi listening on ws://127.0.0.1:58048
 Read port: 58055
 1695647454796	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:58048/devtools/browser/877d628c-daf2-4b71-9262-2d8dcda2ed6c
-JavaScript warning: https://staging.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://staging.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://staging.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://staging.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://staging.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://staging.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://staging.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://staging.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://code.jquery.com/jquery-3.7.0.min.js, line 2: Script terminated by timeout at:
 trigger@https://code.jquery.com/jquery-3.7.0.min.js:2:69920
 simulate@https://code.jquery.com/jquery-3.7.0.min.js:2:70571
@@ -4199,10 +4199,10 @@ Read port: 58258
 1695648136308	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:58244/devtools/browser/faed83a7-b35b-4f01-b776-029606c7169b
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://staging.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://staging.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
-JavaScript warning: https://staging.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://staging.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://staging.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://staging.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://staging.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://staging.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://code.jquery.com/jquery-3.7.0.min.js, line 2: Script terminated by timeout at:
 dispatch@https://code.jquery.com/jquery-3.7.0.min.js:2:39376
 add/v.handle@https://code.jquery.com/jquery-3.7.0.min.js:2:37968
@@ -4225,11 +4225,11 @@ WebDriver BiDi listening on ws://127.0.0.1:51245
 Read port: 51253
 1696007617236	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:51245/devtools/browser/b854c39d-fb55-42ab-b1bd-9eba32c40799
-JavaScript warning: https://staging.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://staging.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://staging.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://staging.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://staging.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://staging.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://staging.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://staging.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 JavaScript warning: https://code.jquery.com/jquery-3.7.0.min.js, line 2: Script terminated by timeout at:
 ce.fn.extend@https://code.jquery.com/jquery-3.7.0.min.js:2:2436
@@ -4263,14 +4263,14 @@ Read port: 49963
 1696173670922	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:49947/devtools/browser/50ecf95e-6f4a-4b80-a8df-8acc0321a891
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://staging.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://staging.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
-JavaScript warning: https://staging.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://staging.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
-JavaScript warning: https://staging.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
-invokeTask@https://staging.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:8237
-p@https://staging.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20575
-f@https://staging.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20900
+JavaScript warning: https://staging.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://staging.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://staging.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://staging.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://staging.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
+invokeTask@https://staging.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:8237
+p@https://staging.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20575
+f@https://staging.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20900
 
 1696173693614	Marionette	INFO	Stopped listening on port 49963
 Dynamically enable window occlusion 1
@@ -4286,13 +4286,13 @@ Read port: 50212
 1696173724298	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:50205/devtools/browser/3cf5f8ab-faba-46dc-aff5-63dc4d07d820
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://staging.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://staging.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
-JavaScript warning: https://staging.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://staging.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://staging.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://staging.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://staging.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://staging.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://staging.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
-f@https://staging.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
+JavaScript warning: https://staging.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
+f@https://staging.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
 
 1696173742858	Marionette	INFO	Stopped listening on port 50212
 Dynamically enable window occlusion 1
@@ -4308,14 +4308,14 @@ Read port: 53401
 WebDriver BiDi listening on ws://127.0.0.1:53394
 1696174569209	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:53394/devtools/browser/b11cf651-a8e2-4b97-8ada-b6ceaeb37953
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
-pDpN/o/se/i/n.args[0]@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:32150
+JavaScript warning: https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
+pDpN/o/se/i/n.args[0]@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:32150
 
 1696174588136	Marionette	INFO	Stopped listening on port 53401
 Dynamically enable window occlusion 1
@@ -4331,51 +4331,51 @@ WebDriver BiDi listening on ws://127.0.0.1:53728
 Read port: 53735
 1696175085862	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:53728/devtools/browser/741268c7-16f0-460a-af14-3f8c380e419e
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
-scheduleTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:6779
-scheduleTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:3205
-scheduleMicroTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:3435
-Z@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:12868
-then@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:14319
-_scheduleCountTask@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:1446854
-zUnb/end/<@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:1447298
-invoke@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:6624
-run@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:2036
-runOutsideAngular@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:569330
-end@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:1447270
-Is@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:498471
-zUnb/or/<@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:505496
-or@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:505516
-detectChanges@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:511705
-tick@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:578317
-zUnb/e/next/<@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:576390
-invoke@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:6624
-onInvoke@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:568426
-invoke@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:6564
-run@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:2036
-run@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:569082
-next@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:576376
-zUnb/subscribe/i<@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:558672
-__tryOrUnsub@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:457033
-next@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:456278
-_next@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:455473
-next@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:455247
-next@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:459908
-emit@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:558543
-Yc@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:569471
-Hc@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:569853
-onInvokeTask@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:568372
-invokeTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:7163
-runTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:2651
-invokeTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:8292
-p@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20575
-f@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20821
+JavaScript warning: https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
+scheduleTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:6779
+scheduleTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:3205
+scheduleMicroTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:3435
+Z@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:12868
+then@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:14319
+_scheduleCountTask@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:1446854
+zUnb/end/<@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:1447298
+invoke@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:6624
+run@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:2036
+runOutsideAngular@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:569330
+end@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:1447270
+Is@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:498471
+zUnb/or/<@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:505496
+or@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:505516
+detectChanges@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:511705
+tick@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:578317
+zUnb/e/next/<@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:576390
+invoke@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:6624
+onInvoke@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:568426
+invoke@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:6564
+run@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:2036
+run@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:569082
+next@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:576376
+zUnb/subscribe/i<@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:558672
+__tryOrUnsub@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:457033
+next@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:456278
+_next@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:455473
+next@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:455247
+next@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:459908
+emit@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:558543
+Yc@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:569471
+Hc@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:569853
+onInvokeTask@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:568372
+invokeTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:7163
+runTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:2651
+invokeTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:8292
+p@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20575
+f@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20821
 
 1696175103877	Marionette	INFO	Stopped listening on port 53735
 Dynamically enable window occlusion 1
@@ -4410,20 +4410,20 @@ Read port: 54038
 1696175680368	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:54031/devtools/browser/dbe05851-e8b8-4fac-b5c0-888235b7c508
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
-JavaScript warning: https://www.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c, line 512: Script terminated by timeout at:
 aa.ph@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:512:42
 get@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:510:119
 stop@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:510:87
 aa.wk/c/<@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:510:412
-invokeTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:7242
-runTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:2651
-invokeTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:8292
-p@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20575
-f@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20900
+invokeTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:7242
+runTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:2651
+invokeTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:8292
+p@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20575
+f@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20900
 
 1696175694314	Marionette	INFO	Stopped listening on port 54038
 Dynamically enable window occlusion 1
@@ -4440,10 +4440,10 @@ Read port: 49711
 1696176020413	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:49703/devtools/browser/e2b49e8c-e789-42ad-a9d9-3c50b61d330d
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
-JavaScript warning: https://www.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://code.jquery.com/jquery-migrate-3.4.1.min.js, line 2: Script terminated by timeout at:
 @https://code.jquery.com/jquery-migrate-3.4.1.min.js:2:2591
 a/e[t]@https://code.jquery.com/jquery-migrate-3.4.1.min.js:2:1582
@@ -4467,11 +4467,11 @@ WebDriver BiDi listening on ws://127.0.0.1:49842
 Read port: 49849
 1696176187623	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:49842/devtools/browser/4f79ac4e-30a5-43d9-93a4-82856575b74c
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 JavaScript warning: https://code.jquery.com/jquery-3.7.0.min.js, line 2: Script terminated by timeout at:
 I@https://code.jquery.com/jquery-3.7.0.min.js:2:6663
@@ -4497,14 +4497,14 @@ WebDriver BiDi listening on ws://127.0.0.1:49964
 Read port: 49971
 1696176302306	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:49964/devtools/browser/c2295daf-da03-41df-801d-132958264574
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
-f@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
+JavaScript warning: https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
+f@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
 
 1696176315658	Marionette	INFO	Stopped listening on port 49971
 Dynamically enable window occlusion 1
@@ -4520,11 +4520,11 @@ WebDriver BiDi listening on ws://127.0.0.1:50054
 Read port: 50061
 1696176369467	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:50054/devtools/browser/bb6a13ce-836c-4a70-a635-25afe8175d04
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://code.jquery.com/jquery-3.7.0.min.js, line 2: Script terminated by timeout at:
 F@https://code.jquery.com/jquery-3.7.0.min.js:2:29722
 get@https://code.jquery.com/jquery-3.7.0.min.js:2:30229
@@ -4545,13 +4545,13 @@ WebDriver BiDi listening on ws://127.0.0.1:50202
 Read port: 50209
 1696176613781	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:50202/devtools/browser/5390c129-4770-49c8-b6fc-ba3b20bce750
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
-JavaScript warning: https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
-f@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
+JavaScript warning: https://www.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
+f@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
 
 1696176626373	Marionette	INFO	Stopped listening on port 50209
 Dynamically enable window occlusion 1
@@ -4566,11 +4566,11 @@ WebDriver BiDi listening on ws://127.0.0.1:50337
 Read port: 50344
 1696176651168	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:50337/devtools/browser/b49634c2-953b-4d2e-9f22-25961c885ece
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://connect.facebook.net/en_US/fbevents.js, line 24: Script terminated by timeout at:
 value@https://connect.facebook.net/en_US/fbevents.js:24:7878
 @https://connect.facebook.net/en_US/fbevents.js:24:65502
@@ -4589,11 +4589,11 @@ WebDriver BiDi listening on ws://127.0.0.1:50456
 Read port: 50463
 1696176791276	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:50456/devtools/browser/f32d5810-e6c8-4c5e-8409-1bfacd137a06
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://connect.facebook.net/en_US/fbevents.js, line 24: Script terminated by timeout at:
 value@https://connect.facebook.net/en_US/fbevents.js:24:7878
 @https://connect.facebook.net/en_US/fbevents.js:24:65502
@@ -4611,11 +4611,11 @@ WebDriver BiDi listening on ws://127.0.0.1:50638
 Read port: 50653
 1696176901697	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:50638/devtools/browser/2d342f82-e526-4b19-9407-1ff16496ebb6
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://code.jquery.com/jquery-3.7.0.min.js, line 2: Script terminated by timeout at:
 y@https://code.jquery.com/jquery-3.7.0.min.js:2:638
 trigger@https://code.jquery.com/jquery-3.7.0.min.js:2:69749
@@ -4636,10 +4636,10 @@ Read port: 50797
 1696176947105	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:50789/devtools/browser/dcc307a8-81df-4975-991a-b990f06a90e8
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
-JavaScript warning: https://www.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://connect.facebook.net/en_US/fbevents.js, line 24: Script terminated by timeout at:
 value@https://connect.facebook.net/en_US/fbevents.js:24:7878
 @https://connect.facebook.net/en_US/fbevents.js:24:65502
@@ -4659,10 +4659,10 @@ Read port: 50964
 1696177240854	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:50954/devtools/browser/e2ffb801-b280-414b-8e37-64e544c73ea8
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
-JavaScript warning: https://www.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c, line 510: Script terminated by timeout at:
 get@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:510:115
 stop@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:510:87
@@ -4682,11 +4682,11 @@ WebDriver BiDi listening on ws://127.0.0.1:51125
 Read port: 51132
 1696177341787	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:51125/devtools/browser/0e0ac2d2-a12e-4cdc-94db-43c010f13389
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 JavaScript warning: https://connect.facebook.net/en_US/fbevents.js, line 24: Script terminated by timeout at:
 value@https://connect.facebook.net/en_US/fbevents.js:24:7878
@@ -4706,12 +4706,12 @@ Read port: 51257
 1696177600781	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:51249/devtools/browser/8e5540c7-a567-46b4-8590-0dde0fd29a20
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
-JavaScript warning: https://www.bemdasorte.com.br/#/login.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/login.html line 1 > injectedScript, line 43: WebGL context was lost.
-JavaScript warning: https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
-f@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/login.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/login.html line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
+f@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
 
 1696177608714	Marionette	INFO	Stopped listening on port 51257
 Dynamically enable window occlusion 1
@@ -4726,11 +4726,11 @@ WebDriver BiDi listening on ws://127.0.0.1:51402
 Read port: 51409
 1696177877124	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:51402/devtools/browser/dfd26d09-dd7e-4a06-9e13-a0c338f7a314
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/login.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/login.html line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/login.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/login.html line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c, line 165: Script terminated by timeout at:
 ib@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:165:124
@@ -4742,17 +4742,17 @@ Xv@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:419
 tF/<@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:559:153
 aa.wk/<@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:511:126
 aa.wk/c/<@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:510:420
-invokeTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:7242
-runTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:2651
-invokeTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:8292
-p@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20575
-f@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20900
+invokeTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:7242
+runTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:2651
+invokeTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:8292
+p@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20575
+f@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20900
 
-JavaScript warning: https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
-get zone@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:8338
-invokeTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:8285
-p@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20575
-f@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20900
+JavaScript warning: https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
+get zone@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:8338
+invokeTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:8285
+p@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20575
+f@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20900
 
 1696179251259	Marionette	INFO	Stopped listening on port 51409
 Dynamically enable window occlusion 1
@@ -4764,10 +4764,10 @@ deleteSession()@WebDriverBiDi.sys.mjs:140
 stop()@WebDriverBiDi.sys.mjs:228
 observe()@resource://gre/modules/AsyncShutdown.sys.mjs:573
 8bb0fec14.js:1:7242
-runTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:2651
-invokeTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:8292
-p@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20575
-f@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20900
+runTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:2651
+invokeTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:8292
+p@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20575
+f@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20900
 
 JavaScript warning: https://connect.facebook.net/en_US/fbevents.js, line 24: Script terminated by timeout at:
 value@https://connect.facebook.net/en_US/fbevents.js:24:7878
@@ -4808,12 +4808,12 @@ WebDriver BiDi listening on ws://127.0.0.1:51974
 Read port: 51981
 1696179030889	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:51974/devtools/browser/b07c9dda-019d-4596-8e1e-906c82f84489
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/login.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/login.html line 1 > injectedScript, line 43: WebGL context was lost.
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
+JavaScript warning: https://www.amepremiada.com.br/#/login.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/login.html line 1 > injectedScript, line 43: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
 JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c, line 332: Script terminated by timeout at:
 um@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:332:530
 bF@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:537:1039
@@ -4838,11 +4838,11 @@ JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=d
 get@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:510:115
 stop@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:510:87
 aa.wk/c/<@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:510:412
-invokeTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:7242
-runTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:2651
-invokeTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:8292
-p@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20575
-f@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20900
+invokeTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:7242
+runTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:2651
+invokeTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:8292
+p@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20575
+f@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20900
 
 JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
 JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
@@ -4859,11 +4859,11 @@ deleteSession()@WebDriverBiDi.sys.mjs:140
 stop()@WebDriverBiDi.sys.mjs:228
 observe()@resource://gre/modules/AsyncShutdown.sys.mjs:573
 taLayer&cx=c:510:420
-invokeTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:7242
-runTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:2651
-invokeTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:8292
-p@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20575
-f@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20900
+invokeTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:7242
+runTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:2651
+invokeTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:8292
+p@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20575
+f@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20900
 
 1696179251726	Marionette	INFO	Stopped listening on port 52098
 Dynamically enable window occlusion 1
@@ -4879,10 +4879,10 @@ Read port: 52205
 1696179270758	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:52198/devtools/browser/f97c1a04-a950-4564-90f1-7acf6b00462b
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
-JavaScript warning: https://www.bemdasorte.com.br/#/login.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/login.html line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/login.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/login.html line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://www.youtube.com/s/player/f7e1823a/www-embed-player.vflset/www-embed-player.js, line 864: Script terminated by timeout at:
 S@https://www.youtube.com/s/player/f7e1823a/www-embed-player.vflset/www-embed-player.js:864:131
 sx<@https://www.youtube.com/s/player/f7e1823a/www-embed-player.vflset/www-embed-player.js:1851:98
@@ -4891,8 +4891,8 @@ Pk/<@https://www.youtube.com/s/player/f7e1823a/www-embed-player.vflset/www-embed
 1696179345828	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
 1696180109379	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
 JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 5078 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
-f@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
+JavaScript warning: https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
+f@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
 
 JavaScript warning: https://connect.facebook.net/en_US/fbevents.js, line 24: Script terminated by timeout at:
 value@https://connect.facebook.net/en_US/fbevents.js:24:7878
@@ -4920,8 +4920,8 @@ destroy()@Session.sys.mjs:239
 deleteSession()@WebDriverBiDi.sys.mjs:140
 stop()@WebDriverBiDi.sys.mjs:228
 observe()@resource://gre/modules/AsyncShutdown.sys.mjs:573
-JavaScript warning: https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
-f@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
+JavaScript warning: https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
+f@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
 
 JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c, line 158: Script terminated by timeout at:
 ya.prototype.get@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:158:877
@@ -4960,9 +4960,9 @@ deleteSession()@WebDriverBiDi.sys.mjs:140
 stop()@WebDriverBiDi.sys.mjs:228
 observe()@resource://gre/modules/AsyncShutdown.sys.mjs:573
 NDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
-JavaScript warning: https://www.bemdasorte.com.br/#/login.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/login.html line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/login.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/login.html line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://www.youtube.com/s/player/f7e1823a/www-embed-player.vflset/www-embed-player.js, line 848: Script terminated by timeout at:
 Pk/<@https://www.youtube.com/s/player/f7e1823a/www-embed-player.vflset/www-embed-player.js:848:47
 
@@ -4977,11 +4977,11 @@ dw.prototype.flush@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=da
 tF/<@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:559:117
 aa.wk/<@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:511:126
 aa.wk/c/<@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:510:420
-invokeTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:7242
-runTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:2651
-invokeTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:8292
-p@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20575
-f@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20900
+invokeTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:7242
+runTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:2651
+invokeTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:8292
+p@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20575
+f@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20900
 
 JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
 JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
@@ -4999,13 +4999,13 @@ destroy()@Session.sys.mjs:239
 deleteSession()@WebDriverBiDi.sys.mjs:140
 stop()@WebDriverBiDi.sys.mjs:228
 observe()@resource://gre/modules/AsyncShutdown.sys.mjs:573
-JavaScript warning: https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
-f@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
+JavaScript warning: https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
+f@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
 
  WebGL context was lost.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
-f@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
+JavaScript warning: https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
+f@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
 
 1696185401744	Marionette	INFO	Stopped listening on port 53151
 Dynamically enable window occlusion 1
@@ -5035,14 +5035,14 @@ destroy()@Session.sys.mjs:239
 deleteSession()@WebDriverBiDi.sys.mjs:140
 stop()@WebDriverBiDi.sys.mjs:228
 observe()@resource://gre/modules/AsyncShutdown.sys.mjs:573
-JavaScript warning: https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
-f@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
+JavaScript warning: https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
+f@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
 
 cript, line 43: WebGL context was lost.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
-f@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
+JavaScript warning: https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
+f@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
 
 1696185401804	Marionette	INFO	Stopped listening on port 53384
 Dynamically enable window occlusion 1
@@ -5053,11 +5053,11 @@ destroy()@Session.sys.mjs:239
 deleteSession()@WebDriverBiDi.sys.mjs:140
 stop()@WebDriverBiDi.sys.mjs:228
 observe()@resource://gre/modules/AsyncShutdown.sys.mjs:573
-JavaScript warning: https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
-f@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
+JavaScript warning: https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
+f@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
 
 ipt, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/login.html line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/login.html line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://connect.facebook.net/en_US/fbevents.js, line 24: Script terminated by timeout at:
 value@https://connect.facebook.net/en_US/fbevents.js:24:7878
 @https://connect.facebook.net/en_US/fbevents.js:24:65502
@@ -5077,11 +5077,11 @@ deleteSession()@WebDriverBiDi.sys.mjs:140
 stop()@WebDriverBiDi.sys.mjs:228
 observe()@resource://gre/modules/AsyncShutdown.sys.mjs:573
 fec14.js, line 1: Script terminated by timeout at:
-f@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20867
+f@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20867
 
 1696185402075	Marionette	INFO	Stopped listening on port 53595
-JavaScript warning: https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
-f@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
+JavaScript warning: https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
+f@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
 
 Dynamically enable window occlusion 1
 JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
@@ -5092,8 +5092,8 @@ deleteSession()@WebDriverBiDi.sys.mjs:140
 stop()@WebDriverBiDi.sys.mjs:228
 observe()@resource://gre/modules/AsyncShutdown.sys.mjs:573
 ipt, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/login.html line 1 > injectedScript, line 43: WebGL context was lost.
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
+JavaScript warning: https://www.amepremiada.com.br/#/login.html line 1 > injectedScript, line 43: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c, line 512: Script terminated by timeout at:
 aa.ph@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:512:89
@@ -5110,8 +5110,8 @@ destroy()@Session.sys.mjs:239
 deleteSession()@WebDriverBiDi.sys.mjs:140
 stop()@WebDriverBiDi.sys.mjs:228
 observe()@resource://gre/modules/AsyncShutdown.sys.mjs:573
-JavaScript warning: https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
-f@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
+JavaScript warning: https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
+f@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
 
 stening on port 53866
 Dynamically enable window occlusion 1
@@ -5122,15 +5122,15 @@ destroy()@Session.sys.mjs:239
 deleteSession()@WebDriverBiDi.sys.mjs:140
 stop()@WebDriverBiDi.sys.mjs:228
 observe()@resource://gre/modules/AsyncShutdown.sys.mjs:573
-JavaScript warning: https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
-f@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
+JavaScript warning: https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
+f@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
 
 .br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
-f@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
+JavaScript warning: https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
+f@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
 
 JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c, line 175: Script terminated by timeout at:
 Gc@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:175:335
@@ -5168,8 +5168,8 @@ destroy()@Session.sys.mjs:239
 deleteSession()@WebDriverBiDi.sys.mjs:140
 stop()@WebDriverBiDi.sys.mjs:228
 observe()@resource://gre/modules/AsyncShutdown.sys.mjs:573
-JavaScript warning: https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
-f@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
+JavaScript warning: https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
+f@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
 
 ayer_ias.vflset/pt_BR/base.js:2787:68
 g.k.dR@https://www.youtube.com/s/player/f7e1823a/player_ias.vflset/pt_BR/base.js:12230:64
@@ -5182,11 +5182,11 @@ sx<@https://www.youtube.com/s/player/f7e1823a/www-embed-player.vflset/www-embed-
 Pk/<@https://www.youtube.com/s/player/f7e1823a/www-embed-player.vflset/www-embed-player.js:848:63
 
 1696181673259	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-JavaScript warning: https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
-f@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
+JavaScript warning: https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
+f@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
 
-JavaScript warning: https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
-f@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
+JavaScript warning: https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
+f@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
 
 1696185402123	Marionette	INFO	Stopped listening on port 54209
 Dynamically enable window occlusion 1
@@ -5198,7 +5198,7 @@ deleteSession()@WebDriverBiDi.sys.mjs:140
 stop()@WebDriverBiDi.sys.mjs:228
 observe()@resource://gre/modules/AsyncShutdown.sys.mjs:573
 injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c, line 381: Script terminated by timeout at:
 aq@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:381:253
@@ -5218,10 +5218,10 @@ Xv@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:419
 tF/<@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:559:153
 aa.wk/<@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:511:126
 aa.wk/c/<@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:510:420
-invokeTask@https://www.bemdasorte.com.br/polyfills.a40211696185400757	Marionette	INFO	Stopped listening on port 54456
+invokeTask@https://www.amepremiada.com.br/polyfills.a40211696185400757	Marionette	INFO	Stopped listening on port 54456
 Dynamically enable window occlusion 1
-JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterJavaScript warning: https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
-f@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterJavaScript warning: https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
+f@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
 
 1696185402382	Marionette	INFO	Stopped listening on port 54352
 Dynamically enable window occlusion 1
@@ -5232,7 +5232,7 @@ destroy()@Session.sys.mjs:239
 deleteSession()@WebDriverBiDi.sys.mjs:140
 stop()@WebDriverBiDi.sys.mjs:228
 observe()@resource://gre/modules/AsyncShutdown.sys.mjs:573
- https://www.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
+ https://www.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 1696183403660	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
 1696183511949	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
@@ -5277,21 +5277,21 @@ Xv@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:419
 tF/<@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:559:153
 aa.wk/<@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:511:126
 aa.wk/c/<@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:510:420
-invokeTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:7242
-runTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:2651
-invokeTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:8292
-p@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20575
-f@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20900
+invokeTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:7242
+runTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:2651
+invokeTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:8292
+p@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20575
+f@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20900
 
 JavaScript warning: https://script.hotjar.com/modules.d33654e579af3e83b3a7.js, line 2: Script terminated by timeout at:
 i@https://script.hotjar.com/modules.d33654e579af3e83b3a7.js:2:38446
 d/</<@https://script.hotjar.com/modules.d33654e579af3e83b3a7.js:2:38616
 d/<@https://script.hotjar.com/modules.d33654e579af3e83b3a7.js:2:38822
-invokeTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:7242
-runTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:2651
-invokeTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:8292
-p@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20575
-f@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20900
+invokeTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:7242
+runTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:2651
+invokeTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:8292
+p@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20575
+f@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20900
 
 JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-VZW8YVGM9B&l=dataLayer&cx=c, line 470: Script terminated by timeout at:
 aa.ph@https://www.googletagmanager.com/gtag/js?id=G-VZW8YVGM9B&l=dataLayer&cx=c:470:89
@@ -5401,10 +5401,10 @@ WebDriver BiDi listening on ws://127.0.0.1:61672
 1696187087723	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:61672/devtools/browser/e05d6148-f9ae-4998-abec-538a860cdd91
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
-JavaScript warning: https://www.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c, line 539: Script terminated by timeout at:
 aa.hm@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:539:434
@@ -5416,11 +5416,11 @@ Xv@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:419
 tF/<@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:559:153
 aa.wk/<@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:511:126
 aa.wk/c/<@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:510:420
-invokeTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:7242
-runTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:2651
-invokeTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:8292
-p@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20575
-f@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20900
+invokeTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:7242
+runTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:2651
+invokeTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:8292
+p@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20575
+f@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20900
 
 1696187492825	Marionette	INFO	Stopped listening on port 61679
 Dynamically enable window occlusion 1
@@ -5438,11 +5438,11 @@ destroy()@Session.sys.mjs:239
 deleteSession()@WebDriverBiDi.sys.mjs:140
 stop()@WebDriverBiDi.sys.mjs:228
 bGL context was lost.
-JavaScript warning: https://www.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
-JavaScript warning: https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
-pDpN/o/</O.get@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:14815
-pDpN/o/</Object.prototype.toString@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:19778
+JavaScript warning: https://www.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
+pDpN/o/</O.get@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:14815
+pDpN/o/</Object.prototype.toString@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:19778
 ib@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:165:155
 mb@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:166:49
 ew@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:420:221
@@ -5452,16 +5452,16 @@ Xv@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:419
 tF/<@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:559:153
 aa.wk/<@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:511:126
 aa.wk/c/<@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:510:420
-invokeTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:7242
-runTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:2651
-invokeTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:8292
-p@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20575
-f@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20900
+invokeTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:7242
+runTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:2651
+invokeTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:8292
+p@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20575
+f@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20900
 
 1696187480736	Marionette	INFO	Stopped listening on port 61947
 Dynamically enable window occlusion 1
-JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, linJavaScript warning: https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
-f@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, linJavaScript warning: https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
+f@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
 
 1696187484993	Marionette	INFO	Stopped listening on port 62082
 Dynamically enable window occlusion 1
@@ -5481,19 +5481,19 @@ Read port: 62305
 1696187634472	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:62298/devtools/browser/9c7fe3f2-597c-42e5-98b0-6f0b591e80d3
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
-JavaScript warning: https://www.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
-JavaScript warning: https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
-T@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:11339
-pDpN/o/</Z/<@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:13006
-invokeTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:7242
-runTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:2651
-m@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:9236
-invokeTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:8321
-p@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20575
-f@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20821
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
+T@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:11339
+pDpN/o/</Z/<@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:13006
+invokeTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:7242
+runTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:2651
+m@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:9236
+invokeTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:8321
+p@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20575
+f@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20821
 
 1696187671668	Marionette	INFO	Stopped listening on port 62305
 Dynamically enable window occlusion 1
@@ -5510,22 +5510,22 @@ Read port: 62444
 1696187726777	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:62437/devtools/browser/280ee8de-1a65-463f-b1b0-7a1a1195d248
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
-JavaScript warning: https://www.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
 console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2401))
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
 1696192988039	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
 JavaScript warning: https://www.youtube.com/s/player/f7e1823a/www-embed-player.vflset/www-embed-player.js, line 848: Script terminated by timeout at:
@@ -5563,19 +5563,19 @@ Pk/<@https://www.youtube.com/s/player/f7e1823a/www-embed-player.vflset/www-embed
 1696197538451	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
 JavaScript error: https://www.selenium.dev/js/tabpane-persist.js, line 17: TypeError: $(...).tab is not a function
 ERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
-JavaScript warning: https://www.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
-T@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:11339
-pDpN/o/</Z/<@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:13006
-invokeTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:7242
-runTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:2651
-m@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:9236
-invokeTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:8321
-p@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20575
-f@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20821
+JavaScript warning: https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
+T@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:11339
+pDpN/o/</Z/<@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:13006
+invokeTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:7242
+runTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:2651
+m@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:9236
+invokeTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:8321
+p@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20575
+f@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20821
 
 1696188098429	Marionette	INFO	Stopped listening on port 62785
 Dynamically enable window occlusion 1
@@ -5591,54 +5591,54 @@ Read port: 62915
 1696188137617	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:62908/devtools/browser/302b1ab2-adf5-4b85-971d-88b2e7d57a50
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
-JavaScript warning: https://www.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
-JavaScript warning: https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js, line 1: Script terminated by timeout at:
-_s@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:495356
-fs@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:495295
-zUnb/As/<@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:497483
-As@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:497585
-zUnb/As/<@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:497560
-As@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:497585
-zUnb/As/<@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:497560
-As@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:497585
-zUnb/As/<@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:497560
-As@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:497585
-nr@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:504678
-zUnb/As/<@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:498065
-As@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:498074
-nr@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:504678
-zUnb/As/<@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:498065
-As@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:498074
-Is@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:498435
-zUnb/or/<@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:505496
-or@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:505516
-detectChanges@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:511705
-tick@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:578317
-zUnb/e/next/<@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:576390
-invoke@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:6624
-onInvoke@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:568426
-invoke@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:6564
-run@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:2036
-run@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:569082
-next@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:576376
-zUnb/subscribe/i<@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:558672
-__tryOrUnsub@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:457033
-next@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:456278
-_next@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:455473
-next@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:455247
-next@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:459908
-emit@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:558543
-Yc@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:569471
-Hc@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:569853
-onInvokeTask@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:568372
-invokeTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:7163
-runTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:2651
-invokeTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:8292
-p@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20575
-f@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20821
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js, line 1: Script terminated by timeout at:
+_s@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:495356
+fs@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:495295
+zUnb/As/<@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:497483
+As@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:497585
+zUnb/As/<@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:497560
+As@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:497585
+zUnb/As/<@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:497560
+As@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:497585
+zUnb/As/<@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:497560
+As@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:497585
+nr@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:504678
+zUnb/As/<@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:498065
+As@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:498074
+nr@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:504678
+zUnb/As/<@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:498065
+As@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:498074
+Is@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:498435
+zUnb/or/<@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:505496
+or@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:505516
+detectChanges@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:511705
+tick@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:578317
+zUnb/e/next/<@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:576390
+invoke@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:6624
+onInvoke@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:568426
+invoke@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:6564
+run@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:2036
+run@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:569082
+next@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:576376
+zUnb/subscribe/i<@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:558672
+__tryOrUnsub@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:457033
+next@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:456278
+_next@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:455473
+next@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:455247
+next@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:459908
+emit@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:558543
+Yc@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:569471
+Hc@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:569853
+onInvokeTask@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:568372
+invokeTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:7163
+runTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:2651
+invokeTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:8292
+p@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20575
+f@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20821
 
 1696188159654	Marionette	INFO	Stopped listening on port 62915
 Dynamically enable window occlusion 1
@@ -5654,49 +5654,49 @@ Read port: 63025
 1696188226380	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:63018/devtools/browser/83c85122-4835-4dd1-a86e-ec2e26157166
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
-JavaScript warning: https://www.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
-JavaScript warning: https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
-_updateTaskCount@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:4017
-scheduleTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:3339
-scheduleMicroTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:3435
-Z@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:12868
-then@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:14319
-_scheduleCountTask@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:1446854
-zUnb/end/<@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:1447298
-invoke@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:6624
-run@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:2036
-runOutsideAngular@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:569330
-end@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:1447270
-Is@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:498471
-zUnb/or/<@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:505496
-or@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:505516
-detectChanges@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:511705
-tick@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:578317
-zUnb/e/next/<@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:576390
-invoke@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:6624
-onInvoke@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:568426
-invoke@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:6564
-run@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:2036
-run@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:569082
-next@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:576376
-zUnb/subscribe/i<@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:558672
-__tryOrUnsub@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:457033
-next@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:456278
-_next@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:455473
-next@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:455247
-next@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:459908
-emit@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:558543
-Yc@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:569471
-Hc@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:569853
-onInvokeTask@https://www.bemdasorte.com.br/main.a4d20e920f2b008c1265.js:1:568372
-invokeTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:7163
-runTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:2651
-invokeTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:8292
-p@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20575
-f@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20821
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
+_updateTaskCount@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:4017
+scheduleTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:3339
+scheduleMicroTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:3435
+Z@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:12868
+then@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:14319
+_scheduleCountTask@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:1446854
+zUnb/end/<@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:1447298
+invoke@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:6624
+run@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:2036
+runOutsideAngular@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:569330
+end@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:1447270
+Is@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:498471
+zUnb/or/<@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:505496
+or@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:505516
+detectChanges@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:511705
+tick@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:578317
+zUnb/e/next/<@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:576390
+invoke@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:6624
+onInvoke@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:568426
+invoke@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:6564
+run@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:2036
+run@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:569082
+next@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:576376
+zUnb/subscribe/i<@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:558672
+__tryOrUnsub@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:457033
+next@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:456278
+_next@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:455473
+next@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:455247
+next@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:459908
+emit@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:558543
+Yc@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:569471
+Hc@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:569853
+onInvokeTask@https://www.amepremiada.com.br/main.a4d20e920f2b008c1265.js:1:568372
+invokeTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:7163
+runTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:2651
+invokeTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:8292
+p@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20575
+f@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20821
 
 1696188251874	Marionette	INFO	Stopped listening on port 63025
 Dynamically enable window occlusion 1
@@ -5713,10 +5713,10 @@ Read port: 63129
 1696188274572	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:63122/devtools/browser/e1fd6752-8d97-461a-bbfb-839268f342e5
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
-JavaScript warning: https://www.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://code.jquery.com/jquery-3.7.0.min.js, line 2: Script terminated by timeout at:
 F@https://code.jquery.com/jquery-3.7.0.min.js:2:29722
 get@https://code.jquery.com/jquery-3.7.0.min.js:2:30229
@@ -8494,10 +8494,10 @@ WebDriver BiDi listening on ws://127.0.0.1:63294
 1696188898337	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:63294/devtools/browser/71e223d1-be94-4b69-8509-7bae6090f8d0
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
-JavaScript warning: https://www.bemdasorte.com.br/#/login.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/login.html line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/login.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/login.html line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://connect.facebook.net/en_US/fbevents.js, line 24: Script terminated by timeout at:
 value@https://connect.facebook.net/en_US/fbevents.js:24:7878
 @https://connect.facebook.net/en_US/fbevents.js:24:65502
@@ -8529,16 +8529,16 @@ WebDriver BiDi listening on ws://127.0.0.1:63590
 Read port: 63597
 1696190839857	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:63590/devtools/browser/ef78f186-b1e7-4188-9762-6408a691368d
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/login.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/login.html line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/login.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/login.html line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-JavaScript warning: https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
-f@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+JavaScript warning: https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
+f@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
 
 1696190874046	Marionette	INFO	Stopped listening on port 63597
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 7: Script terminated by timeout at:
@@ -8568,13 +8568,13 @@ Read port: 63718
 1696190979778	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:63711/devtools/browser/1153812d-62f0-4d82-ad0a-5c9c2e7ed400
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
-JavaScript warning: https://www.bemdasorte.com.br/#/login.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/login.html line 1 > injectedScript, line 43: WebGL context was lost.
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/login.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/login.html line 1 > injectedScript, line 43: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
 JavaScript warning: https://connect.facebook.net/en_US/fbevents.js, line 24: Script terminated by timeout at:
 value@https://connect.facebook.net/en_US/fbevents.js:24:7878
 @https://connect.facebook.net/en_US/fbevents.js:24:65502
@@ -8608,10 +8608,10 @@ Read port: 63827
 1696191031808	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:63820/devtools/browser/595d416d-50d4-4dcc-a44a-bafe77205527
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
-JavaScript warning: https://www.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://code.jquery.com/jquery-migrate-3.4.1.min.js, line 2: Script terminated by timeout at:
 a/e[t]@https://code.jquery.com/jquery-migrate-3.4.1.min.js:2:1521
 o@https://code.jquery.com/jquery-3.7.0.min.js:2:43221
@@ -8632,13 +8632,13 @@ DevTools listening on ws://127.0.0.1:63960/devtools/browser/aaca6159-8bb1-4ccb-a
 console.error: ({})
 console.error: ({})
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
-JavaScript warning: https://www.bemdasorte.com.br/#/login.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/login.html line 1 > injectedScript, line 43: WebGL context was lost.
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/login.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/login.html line 1 > injectedScript, line 43: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
 JavaScript warning: https://connect.facebook.net/en_US/fbevents.js, line 24: Script terminated by timeout at:
 value@https://connect.facebook.net/en_US/fbevents.js:24:7878
 @https://connect.facebook.net/en_US/fbevents.js:24:65502
@@ -8658,13 +8658,13 @@ Read port: 64209
 1696192524386	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:64202/devtools/browser/aab31abd-4015-4e93-959d-70e99a797e7a
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
-JavaScript warning: https://www.bemdasorte.com.br/#/login.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/login.html line 1 > injectedScript, line 43: WebGL context was lost.
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/login.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/login.html line 1 > injectedScript, line 43: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
 JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c, line 159: Script terminated by timeout at:
 h@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:159:184
 cp@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:378:416
@@ -10640,14 +10640,14 @@ WebDriver BiDi listening on ws://127.0.0.1:64356
 Read port: 64363
 1696192743383	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:64356/devtools/browser/bb0fb3c1-f42c-4b2e-aa01-62f9979dcfaa
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/login.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/login.html line 1 > injectedScript, line 43: WebGL context was lost.
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
+JavaScript warning: https://www.amepremiada.com.br/#/login.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/login.html line 1 > injectedScript, line 43: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 JavaScript warning: https://connect.facebook.net/en_US/fbevents.js, line 24: Script terminated by timeout at:
 value@https://connect.facebook.net/en_US/fbevents.js:24:7878
@@ -10667,15 +10667,15 @@ WebDriver BiDi listening on ws://127.0.0.1:64908
 Read port: 64918
 1696196144022	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:64908/devtools/browser/8469c8c2-2a88-4605-90f2-733f021085da
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/login.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/login.html line 1 > injectedScript, line 43: WebGL context was lost.
-JavaScript warning: https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
-invokeTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:8237
-p@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20575
-f@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20900
+JavaScript warning: https://www.amepremiada.com.br/#/login.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/login.html line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
+invokeTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:8237
+p@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20575
+f@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20900
 
 1696196168668	Marionette	INFO	Stopped listening on port 64918
 Dynamically enable window occlusion 1
@@ -10690,14 +10690,14 @@ WebDriver BiDi listening on ws://127.0.0.1:65038
 Read port: 65045
 1696196217637	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:65038/devtools/browser/ca3a2865-45f8-40cd-b1e9-2767fbc5ef41
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/login.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/login.html line 1 > injectedScript, line 43: WebGL context was lost.
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
+JavaScript warning: https://www.amepremiada.com.br/#/login.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/login.html line 1 > injectedScript, line 43: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
 JavaScript warning: https://connect.facebook.net/en_US/fbevents.js, line 24: Script terminated by timeout at:
 value@https://connect.facebook.net/en_US/fbevents.js:24:7878
 @https://connect.facebook.net/en_US/fbevents.js:24:65502
@@ -10716,12 +10716,12 @@ Read port: 65167
 1696196440086	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:65160/devtools/browser/5ae6c99f-0450-4b13-9bcf-cca711a485da
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/login.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/login.html line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/login.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/login.html line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
 JavaScript warning: https://code.jquery.com/jquery-3.7.0.min.js, line 2: Script terminated by timeout at:
 re@https://code.jquery.com/jquery-3.7.0.min.js:2:19953
 I@https://code.jquery.com/jquery-3.7.0.min.js:2:7516
@@ -10747,14 +10747,14 @@ WebDriver BiDi listening on ws://127.0.0.1:65354
 Read port: 65361
 1696196871754	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:65354/devtools/browser/59f3c530-80e3-4968-9726-f41604a1a843
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/login.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/login.html line 1 > injectedScript, line 43: WebGL context was lost.
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
+JavaScript warning: https://www.amepremiada.com.br/#/login.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/login.html line 1 > injectedScript, line 43: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c, line 510: Script terminated by timeout at:
 get@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:510:115
@@ -10762,9 +10762,9 @@ stop@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:5
 aa.wk/c/<@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:510:412
 
 1696196886321	Marionette	INFO	Stopped listening on port 65361
-JavaScript warning: https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
-pDpN/o/u/this.invoke<@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:8171
-pDpN/o/se/i/n.args[0]@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:32166
+JavaScript warning: https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
+pDpN/o/u/this.invoke<@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:8171
+pDpN/o/se/i/n.args[0]@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:32166
 
 Dynamically enable window occlusion 1
 1696196950765	geckodriver	INFO	Listening on 127.0.0.1:65481
@@ -10778,17 +10778,17 @@ WebDriver BiDi listening on ws://127.0.0.1:65482
 Read port: 65489
 1696196955054	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:65482/devtools/browser/d95b53ef-0b48-4e7d-b43c-0ac2e8e6169d
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/login.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/login.html line 1 > injectedScript, line 43: WebGL context was lost.
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
+JavaScript warning: https://www.amepremiada.com.br/#/login.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/login.html line 1 > injectedScript, line 43: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
-f@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
+JavaScript warning: https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
+f@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
 
 1696196973118	Marionette	INFO	Stopped listening on port 65489
 Dynamically enable window occlusion 1
@@ -10805,16 +10805,16 @@ WebDriver BiDi listening on ws://127.0.0.1:49198
 1696197031343	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:49198/devtools/browser/ab2268c1-373e-42b3-9ef4-e8a7661246e9
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
-JavaScript warning: https://www.bemdasorte.com.br/#/login.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/login.html line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/login.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/login.html line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-JavaScript warning: https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
-f@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+JavaScript warning: https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
+f@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
 
 1696197050422	Marionette	INFO	Stopped listening on port 49205
 Dynamically enable window occlusion 1
@@ -10830,22 +10830,22 @@ Read port: 49328
 1696197146386	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:49321/devtools/browser/be3872d7-5de1-49e4-a918-2ff7e6e5a8bc
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
-JavaScript warning: https://www.bemdasorte.com.br/#/login.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/login.html line 1 > injectedScript, line 43: WebGL context was lost.
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/login.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/login.html line 1 > injectedScript, line 43: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
 JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c, line 510: Script terminated by timeout at:
 get@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:510:115
 stop@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:510:87
 aa.wk/c/<@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:510:412
 
 1696197160339	Marionette	INFO	Stopped listening on port 49328
-JavaScript warning: https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
-pDpN/o/u/this.invoke<@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:8171
-pDpN/o/se/i/n.args[0]@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:32166
+JavaScript warning: https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
+pDpN/o/u/this.invoke<@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:8171
+pDpN/o/se/i/n.args[0]@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:32166
 
 Dynamically enable window occlusion 1
 !!! error running onStopped callback: TypeError: callback is not a function
@@ -10861,13 +10861,13 @@ Read port: 49808
 1696197296731	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:49801/devtools/browser/3d9f52aa-c925-40f9-ac92-14519a17f7ae
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
-JavaScript warning: https://www.bemdasorte.com.br/#/login.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/login.html line 1 > injectedScript, line 43: WebGL context was lost.
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/login.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/login.html line 1 > injectedScript, line 43: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
 JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c, line 510: Script terminated by timeout at:
 get@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:510:115
 stop@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:510:87
@@ -10887,15 +10887,15 @@ Read port: 49976
 1696197465363	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:49969/devtools/browser/862f935a-78c9-4105-94e8-967827fcc6d5
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
-JavaScript warning: https://www.bemdasorte.com.br/#/login.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/login.html line 1 > injectedScript, line 43: WebGL context was lost.
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-JavaScript warning: https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
-f@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/login.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/login.html line 1 > injectedScript, line 43: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+JavaScript warning: https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
+f@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
 
 1696197484284	Marionette	INFO	Stopped listening on port 49976
 Dynamically enable window occlusion 1
@@ -10912,26 +10912,26 @@ Read port: 50101
 1696197668568	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:50094/devtools/browser/4086fdaf-ae04-4aca-b3b1-e37bea80a721
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/login.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/login.html line 1 > injectedScript, line 43: WebGL context was lost.
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
+JavaScript warning: https://www.amepremiada.com.br/#/login.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/login.html line 1 > injectedScript, line 43: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
 JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c, line 510: Script terminated by timeout at:
 get@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:510:115
 stop@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:510:87
 aa.wk/c/<@https://www.googletagmanager.com/gtag/js?id=G-CHDPH0KTDT&l=dataLayer&cx=c:510:412
-invokeTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:7242
-runTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:2651
-invokeTask@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:8292
-p@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20575
-f@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20900
+invokeTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:7242
+runTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:2651
+invokeTask@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:8292
+p@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20575
+f@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20900
 
 1696197685226	Marionette	INFO	Stopped listening on port 50101
 Dynamically enable window occlusion 1
@@ -10946,20 +10946,20 @@ WebDriver BiDi listening on ws://127.0.0.1:50248
 Read port: 50255
 1696197771496	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:50248/devtools/browser/06a2bf83-b39e-456b-b0e7-e2a4ddd5b714
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/login.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/login.html line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/login.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/login.html line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-JavaScript warning: https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
-f@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+JavaScript warning: https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
+f@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
 
 1696197808402	Marionette	INFO	Stopped listening on port 50255
 Dynamically enable window occlusion 1
@@ -13795,18 +13795,18 @@ Read port: 51841
 1696250095070	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:51824/devtools/browser/2c45914e-e8d3-4dc6-aa5e-f7a92d1cc9fe
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
-JavaScript warning: https://www.bemdasorte.com.br/#/login.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://www.bemdasorte.com.br/#/login.html line 1 > injectedScript, line 43: WebGL context was lost.
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bemdasorte.com.br."
-JavaScript warning: https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
-f@https://www.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://www.amepremiada.com.br/#/login.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amepremiada.com.br/#/login.html line 1 > injectedScript, line 43: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amepremiada.com.br."
+JavaScript warning: https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
+f@https://www.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
 
 1696250129031	Marionette	INFO	Stopped listening on port 51841
 Dynamically enable window occlusion 1
@@ -16561,14 +16561,14 @@ WebDriver BiDi listening on ws://127.0.0.1:53044
 Read port: 53051
 1696250496663	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:53044/devtools/browser/e39d4dac-27fe-4560-af83-ae960261073a
-JavaScript warning: https://staging.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://staging.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
-JavaScript warning: https://staging.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://staging.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://staging.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://staging.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://staging.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://staging.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://staging.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
-f@https://staging.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
+JavaScript warning: https://staging.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
+f@https://staging.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
 
 1696250531578	Marionette	INFO	Stopped listening on port 53051
 Dynamically enable window occlusion 1
@@ -18811,14 +18811,14 @@ WebDriver BiDi listening on ws://127.0.0.1:53768
 Read port: 53785
 1696250584673	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:53768/devtools/browser/20671af3-3d3a-47f5-93f9-bc066a3f74b8
-JavaScript warning: https://staging.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://staging.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://staging.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://staging.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://staging.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://staging.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://staging.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://staging.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://staging.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
-f@https://staging.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
+JavaScript warning: https://staging.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
+f@https://staging.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
 
 1696250623048	Marionette	INFO	Stopped listening on port 53785
 Dynamically enable window occlusion 1
@@ -19205,14 +19205,14 @@ WebDriver BiDi listening on ws://127.0.0.1:54201
 Read port: 54209
 1696250802590	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:54201/devtools/browser/e725f791-6a09-466e-a407-29a3eaed0149
-JavaScript warning: https://staging.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://staging.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://staging.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://staging.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://staging.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://staging.bemdasorte.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://staging.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://staging.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://staging.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
-f@https://staging.bemdasorte.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
+JavaScript warning: https://staging.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
+f@https://staging.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:20722
 
 1696250841771	Marionette	INFO	Stopped listening on port 54209
 Dynamically enable window occlusion 1
@@ -19228,8 +19228,8 @@ WebDriver BiDi listening on ws://127.0.0.1:59459
 Read port: 59475
 1696424438434	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:59459/devtools/browser/8038722f-a64e-43d6-8d26-3932d2110ab1
-JavaScript warning: https://staging.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://staging.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://staging.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://staging.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 1696424447956	Marionette	INFO	Stopped listening on port 59475
 Dynamically enable window occlusion 1
@@ -19245,8 +19245,8 @@ WebDriver BiDi listening on ws://127.0.0.1:53099
 Read port: 53107
 1696441009076	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:53099/devtools/browser/33cf8b2a-3e91-4219-801a-8f95e0b494ef
-JavaScript warning: https://staging.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://staging.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://staging.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://staging.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 1696441019788	Marionette	INFO	Stopped listening on port 53107
 Dynamically enable window occlusion 1
@@ -19263,8 +19263,8 @@ Read port: 53400
 1696441981526	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:53393/devtools/browser/db668cf4-0791-4c18-bdd2-46362cb1d687
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://staging.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://staging.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://staging.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://staging.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
 1696441991633	Marionette	INFO	Stopped listening on port 53400
 Dynamically enable window occlusion 1
 !!! error running onStopped callback: TypeError: callback is not a function
@@ -19279,8 +19279,8 @@ WebDriver BiDi listening on ws://127.0.0.1:53741
 Read port: 53749
 1696442810860	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:53741/devtools/browser/ce479142-2493-42d5-bc36-5b41fdc28b04
-JavaScript warning: https://staging.bemdasorte.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://staging.bemdasorte.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
+JavaScript warning: https://staging.amepremiada.com.br/#/ line 1 > injectedScript, line 48: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://staging.amepremiada.com.br/#/ line 1 > injectedScript, line 43: WebGL context was lost.
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 1696442821841	Marionette	INFO	Stopped listening on port 53749
 JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 2: Script terminated by timeout at:

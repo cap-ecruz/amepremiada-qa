@@ -52,3 +52,6 @@ def step_impl(context):
 @then(u'valido o direcionamento para a pagina login')
 def step_impl(context):
     context.barraDeNavegacao.verificarSeEstaNaPaginaLogin()
+
+
+    

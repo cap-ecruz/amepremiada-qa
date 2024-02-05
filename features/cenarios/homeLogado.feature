@@ -18,18 +18,18 @@ Funcionalidade: Home - logado
 
   Cenario: Clicar no botao da banner principal
     Quando ao clicar no botao do banner principal
-    Entao valido o direcionamento para a pagina compra do produto
+    Entao valido o direcionamento para a pagina comprar titulo
 
   Cenario: clicar no banner vantagens do ame premiada
     Quando ao clicar no banner vantagens do ame premiada
-    Entao valido o direcionamento para a pagina compra do produto
+    Entao valido o direcionamento para a pagina comprar titulo
 
   Cenario: premiacao sem complicacao - pagina resultados logado
     Quando ao clicar no botao clique aqui e confira seus resultados
     Entao valido o direcionamento para pagina resultados
 
-  Cenario: clicar o botao veja mais sobre a fundacao abrinq
-    Quando ao clicar no botao veja mais sobre a fundacao abrinq
+  Cenario: clicar o botao veja mais sobre a Instituicao beneficiada
+    Quando ao clicar no botao veja mais sobre a fundacao inInstituicao beneficiada
     Entao valido o direcionamento para a pagina Instituicao beneficiada
 
 

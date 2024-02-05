@@ -1,0 +1,5 @@
+class Utils:
+    CPF_CADASTRADO = '625.541.770-07'
+    SENHA_CADASTRADO = '100100'
+    EMAIL_CADASTRADO = ''
+    NUMERO_SUSEP = ''

@@ -37,7 +37,7 @@ class HomePage(VerificarPaginas):
     def clicarNoBotaoDoBannerPrincipalHome(self):
         self._comandos.clicar(self.elemento.BANNER_PRINCIPAL_HOME_COMPRAR_TITULO)
 
-    def clicarNoBannerVantagensDoBemDaSorte(self):
+    def clicarNoBannerVantagensDoamepremiada(self):
         self._comandos.clicar(self.elemento.BANNER_VANTAGENS_DO_BEM_DA_SORTE)
 
     def clicarNoBotaoCliqueAquiEConfiraSeusResultados(self):

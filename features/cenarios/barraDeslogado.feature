@@ -18,5 +18,5 @@ Funcionalidade: barra de navegacao - deslogado
   |opcaomenu                |paginadirecionada          |
   |resultados               |resultados                 |
   |Instituicao beneficiada  |Instituicao beneficiada    |
-  |comprar titulo           |compra do produto          |
+  |comprar titulo           |comprar titulo          |
   |botao login              |login                      |

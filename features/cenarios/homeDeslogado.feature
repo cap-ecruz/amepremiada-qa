@@ -5,7 +5,6 @@ Funcionalidade: Home - deslogado
   Contexto: Abrir pagina home
     Dado que eu estou na pagina home
 
-
   Cenario: Mensagem de cookie
     Entao verifico a exibicao da mensagem de cookie Utilizamos cookies para analisar o uso do nosso site, direcionar conteúdos e oferecer ótima experiência para você. Para maiores informações consulte nossa POLÍTICA DE PRIVACIDADE, ou para seguir, declare estar ciente.
  
@@ -30,14 +29,14 @@ Funcionalidade: Home - deslogado
   |opcaoatalho              |paginadirecionada          |
   |comprar titulo           |como comprar               |
   |conferir resultados      |resultados                 |
-  |veja instituição         |fundacao abrinq            |
+  |veja instituição         |Instituicao beneficiada    |
   |loja mobile android      |google play                |
   |loja mobile ios          |app store                  |
 
 #validar o campo login
   
-  #Cenario: clicar o botao veja mais sobre a fundacao abrinq
-    #Quando ao clicar no botao veja mais sobre a fundacao abrinq
+  #Cenario: clicar o botao veja mais sobre a Instituicao beneficiada
+    #Quando ao clicar no botao veja mais sobre a Instituicao beneficiada
     #Entao valido o direcionamento para pagina Instituicao beneficiada
 
   Esquema do Cenario: Secao tem alguma duvida acesse nossa faq - <linkfaq>
