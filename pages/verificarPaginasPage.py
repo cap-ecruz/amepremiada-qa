@@ -3,7 +3,6 @@ from utils.urlPage import Paginas
 from nose.tools import assert_equal
 from selenium.webdriver.common.by import By
 
-
 class VerificarPaginas(Paginas):
     def __init__(self, webdriver):
         self._comandos = Comandos(webdriver)
@@ -26,14 +25,4 @@ class VerificarPaginas(Paginas):
         self._comandos.encontrarClassePrincipal('minha-conta')
         assert_equal(self._comandos.capturar_url(), self.PAGINA_MINHA_CONTA)
 
-    def verificarSeEstaNaPagamento(self):
-        self._comandos.encontrarClassePrincipal('checkout-page')
-        self._comandos.esperar_elemento((By.XPATH, '/html/body/app-root/ng-component/main/div/div['
-                                                   '1]/app-checkout-formas-pagamento/div'))
-        assert_equal(self._comandos.capturar_url(), self.PAGINA_COMPRA_PAGAMENTO)
-
-    def verificarSeEstaNaConfirmacaoCompra(self):
-        self._comandos.encontrarClassePrincipal('checkout-page')
-        self._comandos.esperar_elemento((By.XPATH, '/html/body/app-root/ng-component/main/div/div['
-                                                   '1]/app-checkout-pedido-status/div'))
-        assert_equal(self._comandos.capturar_url(), self.PAGINA_COMPRA_CONFIRMACAO)
+ 

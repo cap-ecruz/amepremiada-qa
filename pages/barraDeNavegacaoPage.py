@@ -1,7 +1,6 @@
 from selenium.webdriver.common.by import By
 from nose.tools import assert_true
 from nose.tools import assert_equal
-
 from pages.verificarPaginasPage import VerificarPaginas
 from utils.utils import Utils as info
 
@@ -11,12 +10,9 @@ class BarraDeNavegacaoElementos(object):
     MENU_HAMBURGUER = (By.XPATH, '/html/body/app-root/app-header/header/nav/div/div[1]/button')
     # MENU_HOME = (By.XPATH, '//*[@id="mainMenu"]/ul[1]/li[1]/a')
     MENU_RESULTADOS = (By.CSS_SELECTOR, '.nav-link.link-active') #(By.XPATH, '/html/body/app-root/app-header/header/nav/div/div[2]/ul[1]/li[1]/a')
-    MENU_CADASTRE_SEU_TITULO = (By.XPATH, '/html/body/app-root/app-header/header/nav/div/div[2]/ul[1]/li[2]/a')
-    MENU_CADASTRE_SEU_TITULO_MOBILE = (By.XPATH, '/html/body/app-root/app-header/header/nav/div/div[2]/ul[1]/li[2]/a')
     INSTITUICAO_BENEFICIADA = (By.XPATH, '/html/body/app-root/app-header/header/nav/div/div[2]/ul[1]/li[3]/a')
-    COMPREJA = (By.XPATH, '/html/body/app-root/app-header/header/nav/div/div[3]/span[1]/a')
-    COMPREJA_MOBILE = (By.XPATH, '/html/body/app-root/app-header/header/nav/div/div[2]/ul[1]/li[4]/a')
-    CARRINHO = (By.XPATH, '/html/body/app-root/app-header/header/nav/div/div[3]/span[2]/a')
+    COMPRAR_TITULO = (By.XPATH, '/html/body/app-root/app-header/header/nav/div/div[3]/span[1]/a')
+    COMPRAR_TITULO_MOBILE = (By.XPATH, '/html/body/app-root/app-header/header/nav/div/div[2]/ul[1]/li[4]/a')
     BOTAO_LOGIN = (By.XPATH, '/html/body/app-root/app-header/header/nav/div/div[3]/a')
 
     # para efetuar login
@@ -33,7 +29,6 @@ class BarraDeNavegacaoElementos(object):
     SUBMENU_PREMIACOES = (By.XPATH, '/html/body/app-root/app-header/header/nav/div/div[3]/div/div/ul/li[3]/a')
     SUBMENU_MEUS_DADOS = (By.XPATH, '/html/body/app-root/app-header/header/nav/div/div[3]/div/div/ul/li[5]/a')
     SUBMENU_SAIR = (By.XPATH, '/html/body/app-root/app-header/header/nav/div/div[3]/div/div/div[2]/a')
-
 
 class BarraDeNavegacaoPage(VerificarPaginas):
     def __init__(self, webdriver):
@@ -54,7 +49,6 @@ class BarraDeNavegacaoPage(VerificarPaginas):
 
     def clicarNaLogo(self):
         self._comandos.clicar(self.elemento.MENU_LOGO_AME_PREMIADA)
-
 
     def clicarNaResultados(self):
         try:
@@ -91,7 +85,6 @@ class BarraDeNavegacaoPage(VerificarPaginas):
         self._comandos.clicar(self.elemento.BOTAO_LOGIN)
 
     #  parte logada
-
     def efetuarLogin(self):
         self._comandos.inserirDado(self.elemento.CAMPO_CPF, info.CPF_CADASTRADO)
         self._comandos.inserirDado(self.elemento.CAMPO_SENHA, info.SENHA_CADASTRADO)

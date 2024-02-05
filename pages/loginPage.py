@@ -2,7 +2,6 @@ import time
 from selenium.webdriver.common.by import By
 from pages.verificarPaginasPage import VerificarPaginas
 
-
 class LoginElementos(object):
     BOTAO_ENTENDI_POLITICA_COOKIES = (By.CLASS_NAME, 'cc-btn')
 

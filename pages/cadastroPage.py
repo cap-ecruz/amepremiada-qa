@@ -5,7 +5,6 @@ from selenium.webdriver.common.by import By
 from pages.verificarPaginasPage import VerificarPaginas
 from nose.tools import assert_equal, assert_true
 
-
 class CadastroElementos(object):
     BREADCRUMB_3 = (By.XPATH, '/html/body/app-root/ng-component/main/app-breadcrumb/nav/ol/li[3]/span')
     BOTAO_ENTENDI_POLITICA_COOKIES = (By.XPATH, '/html/body/div[1]/div/a')
@@ -43,7 +42,6 @@ class CadastroElementos(object):
     CONF_SENHA = (By.ID, "flSenhaConfirm")
     USO_DE_DADOS = (By.ID, "flReceberComunicado")
 
-        
     # passo 3
     BOTAO_SENHA_E_ACEITES = (
         By.XPATH, "/html/body/app-root/ng-component/main/section/div/app-dados-pessoais/div/a[2]/h5")
@@ -70,7 +68,6 @@ class CadastroElementos(object):
                                           '/div[2]/app-code-input/form/div/input[1]')
 
     BOTAO_CONFIRMAR_CADASTRO = (By.ID, 'Confirmar')
-
 
 class CadastroPage(VerificarPaginas):
     def __init__(self, webdriver):

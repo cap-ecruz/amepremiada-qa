@@ -2,7 +2,6 @@ from selenium.webdriver.common.by import By
 from nose.tools import assert_equal
 from pages.verificarPaginasPage import VerificarPaginas
 
-
 class RodapeElementos(object):
     RODAPE_LOGO_BEM_DA_SORTE = (By.XPATH, '/html/body/app-root/app-header/header/nav/div/div[1]/div/a')
     RODAPE_LOGO_BRASILCAP = (By.XPATH, '/html/body/app-root/app-footer/footer/section[1]/div/div/div['
@@ -15,7 +14,6 @@ class RodapeElementos(object):
     RODAPE_TERMOS_PRIVACIDADE = (By.XPATH, '//a[contains(text(), "Política de Privacidade")]')
     RODAPE_TERMOS_COOKIE = (By.XPATH, '//a[contains(text(), "Política de Cookies")]')
 
-    
 class RodapePage(VerificarPaginas):
     def __init__(self, webdriver):
         super().__init__(webdriver)
@@ -61,18 +59,8 @@ class RodapePage(VerificarPaginas):
         elif 'politica de cookies' in escolhida:
             self.verificarSeEstaNaPaginaPolicitaDeCookies()
 
-    def verificarSeEstaNaPaginaRedesSociais(self, opcao):
-        if 'facebook' in opcao:
-            self.verificarSeEstaNaPaginaFacebookBemDaSorte()
-        elif 'instagram' in opcao:
-            self.verificarSeEstaNaPaginaIstagramBemDaSorte()
-        elif 'tiktok' in opcao:
-            self.verificarSeEstaNaPaginaTikTokBemDaSorte()
-        elif 'youtube' in opcao:
-            self.verificarSeEstaNaPaginaYouTubeBemDaSorte()
-
     def mudarDeAba(self, pagina):
         if 'home' in pagina:
             self._comandos.trocarAba(self.PAGINA_HOME)
-        elif 'brasilcap' in pagina:
-            self._comandos.trocarAba(self.PAGINA_BRASILCAP)
+        #elif 'brasilcap' in pagina:
+            #self._comandos.trocarAba(self.PAGINA_BRASILCAP)
