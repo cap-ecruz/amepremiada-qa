@@ -37,20 +37,11 @@ class HomePage(VerificarPaginas):
     def clicarNoBotaoDoBannerPrincipalHome(self):
         self._comandos.clicar(self.elemento.BANNER_PRINCIPAL_HOME_COMPRAR_TITULO)
 
-    def clicarNoBotaoComprarDaPaginaHome(self):
-        self._comandos.clicar(self.elemento.BOTAO_COMPRAR_HOME)
-
     def clicarNoBannerVantagensDoBemDaSorte(self):
         self._comandos.clicar(self.elemento.BANNER_VANTAGENS_DO_BEM_DA_SORTE)
 
     def clicarNoBotaoCliqueAquiEConfiraSeusResultados(self):
         self._comandos.clicar(self.elemento.BOTAO_CLIQUE_AQUI_E_CONFIRA_SEUS_RESULTADOS)
-
-    def clicarNoCardConferirSorteio(self):
-        self._comandos.clicar(self.elemento.CARD_CONFERIR_SORTEIO)
-
-    def clicarNoCardMeusTitulos(self):
-        self._comandos.clicar(self.elemento.CARD_MEUS_TITULOS)
 
     def clicarNoBotaoVejaMaisSobreAFundacaoAbrinq(self):
         self._comandos.clicar(self.elemento.BOTAO_VEJA_MAIS_SOBRE_A_FUNDACAO_ABRINQ)

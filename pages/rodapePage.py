@@ -3,11 +3,12 @@ from nose.tools import assert_equal
 from pages.verificarPaginasPage import VerificarPaginas
 
 class RodapeElementos(object):
-    RODAPE_LOGO_BEM_DA_SORTE = (By.XPATH, '/html/body/app-root/app-header/header/nav/div/div[1]/div/a')
-    RODAPE_LOGO_BRASILCAP = (By.XPATH, '/html/body/app-root/app-footer/footer/section[1]/div/div/div['
+    RODAPE_LOGO_AME_PREMIADA = (By.XPATH, '/html/body/app-root/app-header/header/nav/div/div[1]/div/a')
+    RODAPE_AME = (By.XPATH, '/html/body/app-root/app-footer/footer/section[1]/div/div/div['
                                        '1]/div/a/app-img/img')
     RODAPE_DUVIDAS = (By.XPATH, '//*[@title="Dúvidas Frequentes"]')
     RODAPE_RESULTADOS = (By.XPATH, '//*[@id="mainMenu"]/ul[1]/li[2]/a')
+    RODAPE_BRASILCAP = (By.XPATH, '//*[@id="mainMenu"]/ul[1]/li[2]/a')
     RODAPE_CONDICOES_GERAIS = (By.XPATH, '//a[contains(text(), "Condições Gerais")]')
     RODAPE_TERMOS_LEGAL = (By.XPATH, '//a[contains(text(), "Termos Legais")]')
     RODAPE_TERMOS_USO = (By.XPATH, '//a[contains(text(), "Termos de Uso")]')

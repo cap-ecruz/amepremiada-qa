@@ -78,9 +78,6 @@ class BarraDeNavegacaoPage(VerificarPaginas):
             self.abrirMenuHamburguer()
             self._comandos.clicar(self.elemento.COMPREJA_MOBILE)
 
-    def clicarNoCarrinho(self):
-        self._comandos.clicar(self.elemento.CARRINHO)
-
     def clicarNoBotaoLogin(self):
         self._comandos.clicar(self.elemento.BOTAO_LOGIN)
 
