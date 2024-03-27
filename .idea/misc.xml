@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="Black">
     <option name="sdkName" value="Python 3.11 (amepremiada-qa)" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (amepremiada-qa)" project-jdk-type="Python SDK" />
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (SmokeTestAmePremiada)" project-jdk-type="Python SDK" />
+>>>>>>> b8e65e594778272f711bcdf1bc83e7713c6752e0
 </project>
