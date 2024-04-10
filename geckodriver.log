@@ -19921,3 +19921,131 @@ JavaScript warning: https://staging.amepremiada.com.br/polyfills.a4021de53358bb0
 pDpN/o/se/i/n.args[0]@https://staging.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:32150
 
 Dynamically enable window occlusion 1
+1712779853558	geckodriver	INFO	Listening on 127.0.0.1:54766
+1712779856576	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54767" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ecruz\\AppData\\Local\\Temp\\rust_mozprofileJxSWia"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1712779857458	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712779857584	Marionette	INFO	Listening on port 54774
+Read port: 54774
+WebDriver BiDi listening on ws://127.0.0.1:54767
+1712779857658	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54767/devtools/browser/2a0383a1-2e7c-420a-ab9d-a00ab25f3dec
+JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://staging.amepremiada.com.br/#/login.html line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://staging.amepremiada.com.br/#/login.html line 1 > injectedScript, line 44: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://staging.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://staging.amepremiada.com.br."
+1712779868032	Marionette	INFO	Stopped listening on port 54774
+JavaScript warning: https://staging.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
+pDpN/o/se/i/n.args[0]@https://staging.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:32150
+
+Dynamically enable window occlusion 1
+1712779915219	geckodriver	INFO	Listening on 127.0.0.1:54898
+1712779918279	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54899" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ecruz\\AppData\\Local\\Temp\\rust_mozprofilewfs1X2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1712779919207	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712779919344	Marionette	INFO	Listening on port 54907
+WebDriver BiDi listening on ws://127.0.0.1:54899
+Read port: 54907
+1712779919573	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54899/devtools/browser/b39939c0-c1c0-497a-94cd-327faa00b9d2
+JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://staging.amepremiada.com.br/#/login.html line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://staging.amepremiada.com.br/#/login.html line 1 > injectedScript, line 44: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://staging.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://staging.amepremiada.com.br."
+1712779928042	Marionette	INFO	Stopped listening on port 54907
+JavaScript warning: https://staging.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
+pDpN/o/se/i/n.args[0]@https://staging.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:32150
+
+Dynamically enable window occlusion 1
+1712780138520	geckodriver	INFO	Listening on 127.0.0.1:55040
+1712780141559	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55041" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ecruz\\AppData\\Local\\Temp\\rust_mozprofilekkdOrU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1712780142352	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712780142486	Marionette	INFO	Listening on port 55048
+WebDriver BiDi listening on ws://127.0.0.1:55041
+Read port: 55048
+1712780142707	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55041/devtools/browser/0a34fca3-5882-46a6-8cb8-f48bf147a2da
+JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://staging.amepremiada.com.br/#/login.html line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://staging.amepremiada.com.br/#/login.html line 1 > injectedScript, line 44: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://staging.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://staging.amepremiada.com.br."
+1712780150958	Marionette	INFO	Stopped listening on port 55048
+JavaScript warning: https://staging.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
+pDpN/o/se/i/n.args[0]@https://staging.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:32150
+
+Dynamically enable window occlusion 1
+1712780359766	geckodriver	INFO	Listening on 127.0.0.1:55657
+1712780362844	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55658" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ecruz\\AppData\\Local\\Temp\\rust_mozprofile4LxarB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1712780364125	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712780364273	Marionette	INFO	Listening on port 55665
+WebDriver BiDi listening on ws://127.0.0.1:55658
+Read port: 55665
+1712780364468	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55658/devtools/browser/7075c017-2ff8-41a1-970a-d1edff195356
+JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://staging.amepremiada.com.br/#/login.html line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://staging.amepremiada.com.br/#/login.html line 1 > injectedScript, line 44: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://staging.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://staging.amepremiada.com.br."
+1712780374425	Marionette	INFO	Stopped listening on port 55665
+Dynamically enable window occlusion 1
+1712780458608	geckodriver	INFO	Listening on 127.0.0.1:55787
+1712780461684	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55788" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ecruz\\AppData\\Local\\Temp\\rust_mozprofilev8fJKC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1712780462535	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712780462668	Marionette	INFO	Listening on port 55795
+WebDriver BiDi listening on ws://127.0.0.1:55788
+Read port: 55795
+1712780462858	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55788/devtools/browser/39c7f7ee-2904-4575-b1d1-bf4048e0238a
+JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://staging.amepremiada.com.br/#/login.html line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://staging.amepremiada.com.br/#/login.html line 1 > injectedScript, line 44: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://staging.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://staging.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://staging.amepremiada.com.br."
+1712780477813	Marionette	INFO	Stopped listening on port 55795
+JavaScript warning: https://staging.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
+pDpN/o/se/i/n.args[0]@https://staging.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:32150
+
+Dynamically enable window occlusion 1
+1712780523221	geckodriver	INFO	Listening on 127.0.0.1:55899
+1712780526263	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55900" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ecruz\\AppData\\Local\\Temp\\rust_mozprofileo77tzZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1712780527128	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712780527245	Marionette	INFO	Listening on port 55910
+WebDriver BiDi listening on ws://127.0.0.1:55900
+Read port: 55910
+1712780527457	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55900/devtools/browser/320b8fe1-1d7a-44eb-be0b-de5a961d8b47
+JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://staging.amepremiada.com.br/#/login.html line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://staging.amepremiada.com.br/#/login.html line 1 > injectedScript, line 44: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://staging.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://staging.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://staging.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://staging.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://staging.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://staging.amepremiada.com.br."
+1712780538608	Marionette	INFO	Stopped listening on port 55910
+JavaScript warning: https://staging.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
+pDpN/o/se/i/n.args[0]@https://staging.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:32150
+
+Dynamically enable window occlusion 1

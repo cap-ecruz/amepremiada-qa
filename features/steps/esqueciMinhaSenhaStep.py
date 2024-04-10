@@ -17,7 +17,7 @@ def step_impl(context):
 
 @when(u'inserir um CPF valido')
 def step_impl(context):
-    context.esqueciMinhaSenha.inserirCPFEsqueciMinhaSenha()
+    context.esqueciMinhaSenha.inserirCPFEsqueciMinhaSenha('52510942050')
 
 @when(u'clicar no botao enviar codigo')
 def step_impl(context):
@@ -36,6 +36,6 @@ def step_impl(context):
 def step_impl(context):
     context.ativacaoSenha.inserirCodigoDeAtivacao(1234)
 
-@when(u'clicar no botao confirmar codigo')
+@then(u'clicar no botao confirmar codigo')
 def step_impl(context):
     context.ativacaoSenha.clicarNoBotaoConfirmarCodigo()

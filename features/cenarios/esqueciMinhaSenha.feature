@@ -13,4 +13,4 @@
       E clicar no botão ok da mensagem
       E verifique o direcionamento para pagina de ativacao
       E inserir codigo de ativacao
-      E clicar no botao confirmar codigo
+      Então clicar no botao confirmar codigo
