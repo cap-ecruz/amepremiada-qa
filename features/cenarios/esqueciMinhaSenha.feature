@@ -14,3 +14,5 @@
       E verifique o direcionamento para pagina de ativacao
       E inserir codigo de ativacao
       Então clicar no botao confirmar codigo
+      # Entao verifique o modal com o texto O seu cadastro foi completado com sucesso!
+  

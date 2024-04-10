@@ -4,6 +4,7 @@ from pages.loginPage import LoginPage
 from pages.esqueciMinhaSenhaPage import EsqueciMinhaSenhaPage 
 from pages.ativacaoSenhaPage import AtivacaoSenhaPage
 from utils.utils import Utils as info
+from pages.cadastroPage import CadastroPage
 
 
 @when(u'clicar no botao esqueci minha senha')
@@ -39,3 +40,7 @@ def step_impl(context):
 @then(u'clicar no botao confirmar codigo')
 def step_impl(context):
     context.ativacaoSenha.clicarNoBotaoConfirmarCodigo()
+
+@when(u'verifique o modal com o texto O seu cadastro foi completado com sucesso!')
+def step_impl(context):
+    CadastroPage(context.browser).validaModalSucesso()
