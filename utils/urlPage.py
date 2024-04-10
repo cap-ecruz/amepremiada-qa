@@ -31,3 +31,5 @@ class Paginas:
     #PAGINA_BRASILCAP = 'https://www.brasilcap.com.br/brasilcap/brasilcap.html'
     PAGINA_GOOGLE_PLAY = 'https://play.google.com/store/apps/details?id=com.b2winc.amedigital&pcampaignid=web_share'
     PAGINA_APP_STORE = 'https://apps.apple.com/br/app/ame-digital/id1371680463'
+
+    API_CODIGO_ATIVACAO = 'https://api-stg.amepremiada.com.br/api/auth/login'

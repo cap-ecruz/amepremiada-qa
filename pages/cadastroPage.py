@@ -11,9 +11,9 @@ class CadastroElementos(object):
     MENSAGEM_MODAL = (By.ID, 'swal2-content')
 
     # passo 1
-    PPE_NAO = (By.ID, "flPpeNao")
+    # PPE_NAO = (By.ID, "flPpeNao")
     PPE_SIM = (By.ID, "flPpeSim")
-    PPE_NAO = (By.XPATH, "(//*[class='custom-control-label'])[0]")
+    PPE_NAO = (By.CSS_SELECTOR, ".custom-control")
     #'/html/body/app-root/ng-component/main/section/div/app-dados-pessoais/form/fieldset/div/label[2]')
     # BOTAO_DADOS_PESSOAIS = (By.XPATH, "/html/body/app-root/ng-component/main/section/div/app-dados-contato/div[1]/a")
     # BOTAO_DADOS_PESSOAIS = (By.XPATH, "/html/body/app-root/ng-component/main/section/div/app-dados-contato/div[1]/a/h5")
@@ -42,8 +42,15 @@ class CadastroElementos(object):
     SENHA = (By.ID, "flSenha")
     CONF_SENHA = (By.ID, "flSenhaConfirm")
     USO_DE_DADOS = (By.ID, "flReceberComunicado")
+    BOTAO_PROXIMO_PASSO_DOIS = (By.ID, 'flCadastroSenhaAceites')
 
     # passo 3
+    CONFIRMAR_PASSO_TRES = (By.CLASS_NAME, 'text-center')
+    CODIGO1 = (By.ID, 'flCode1')
+    CODIGO2 = (By.ID, 'flCode2')
+    CODIGO3 = (By.ID, 'flCode3')
+    CODIGO4 = (By.ID, 'flCode4')
+
     BOTAO_SENHA_E_ACEITES = (
         By.XPATH, "/html/body/app-root/ng-component/main/section/div/app-dados-pessoais/div/a[2]/h5")
 
@@ -53,14 +60,15 @@ class CadastroElementos(object):
     BOTAO_MODAL = (By.XPATH, "/html/body/div/div/div[3]/button[1]")
     MODAL_USO_DE_DADOS = (By.XPATH, "/html/body/div/div")
     TEXTO_USO_DE_DADOS = (By.XPATH, '//*[@id="swal2-content"]/div[2]')
-    TEXTO_MODAL = (By.ID, 'swal2-content')
+    TEXTO_MODAL = (By.ID, 'swal2-title')
     LINK_CADASTRAR_NOVO_EMAIL = (
         By.XPATH, '/html/body/app-root/ng-component/main/section/div/app-form-confirmar/form/div[4]/p[2]/span[2]/a')
+    BOTAO_TROCAR_EMAIL = (By.ID, 'flTrocarEmail')
     CAMPO_CADASTRAR_NOVO_EMAIL = (By.CSS_SELECTOR, '.swal2-input')
     BOTAO_OK_CADASTRAR_NOVO_EMAIL = (By.CSS_SELECTOR, '.swal2-confirm')
     CAMPO_CONFIRMAR_CADASTRO = (By.XPATH, '/html/body/app-root/ng-component/main/section/div/app-form-confirmar/form'
                                           '/div[2]/app-code-input/form/div/input[1]')
-    BOTAO_CONFIRMAR_CADASTRO = (By.ID, 'Confirmar')
+    BOTAO_CONFIRMAR_CADASTRO = (By.ID, 'flConfirmar')
 
 class CadastroPage(VerificarPaginas):
     def __init__(self, webdriver):
@@ -86,9 +94,13 @@ class CadastroPage(VerificarPaginas):
     def clicarEmNaoPPE(self):
         self._comandos.clicar(self.elemento.PPE_NAO)
 
-    def verificarBotaoProximoPassoAtivo(self):
+    def verificarBotaoProximoPasso1Ativo(self):
         time.sleep(1.5)
         assert_true(self._comandos.elementoAtivo(self.elemento.BOTAO_PROXIMO_PASSO))
+
+    def verificarBotaoProximoPasso2Ativo(self):
+        time.sleep(1.5)
+        assert_true(self._comandos.elementoAtivo(self.elemento.BOTAO_PROXIMO_PASSO_DOIS))
 
     def verificarBotaoFinalizarCadastroEstaAtivo(self):
         time.sleep(1.5)
@@ -97,10 +109,16 @@ class CadastroPage(VerificarPaginas):
     def clicarNoBotaoProximoPasso(self):
         self._comandos.clicar(self.elemento.BOTAO_PROXIMO_PASSO)
 
+    def verificarSeEstaNaPaginaCastroPasso2(self):
+        assert_true(self._comandos.elementoAtivo(self.elemento.EMAIL))
+
     def clicarNoBotaoFinalizarCadastro(self):
         self._comandos.clicar(self.elemento.BOTAO_PROXIMO_PASSO_FINALIZAR)
 
-    def inserirDDDPrincipal(self, dado):
+    def inserirDDD(self, dado):
+        self._comandos.inserirDado(self.elemento.TELEFONE_DDD, dado)
+
+    def inserirTelefone(self, dado):
         self._comandos.inserirDado(self.elemento.TELEFONE_PRINCIPAL, dado)
 
     def inserirEmail(self, dado):
@@ -125,25 +143,38 @@ class CadastroPage(VerificarPaginas):
         self._comandos.inserirDado(self.elemento.CONF_SENHA, dado)
 
     def clicarNoBotaoNaoAutorizoOUsoDosDados(self):
-        self._comandos.clicar(self.elemento.USO_DE_DADOS_OPCAO_NAO)
+        self._comandos.clicar(self.elemento.PPE_NAO)
+
+    def clicarNoBotaoProximoPasso2(self):
+        self._comandos.clicar(self.elemento.BOTAO_PROXIMO_PASSO_DOIS)
+
+    def verificarSeEstaNaPaginaCastroPasso3(self):
+        assert_true(self._comandos.elementoAtivo(self.elemento.CONFIRMAR_PASSO_TRES))
+
+    def tabEmail(self):
+        self._comandos.apertarTAB(self.elemento.CODIGO4)
 
     def clicarNoLinkCadastrarUmNovoEmail(self):
-        self._comandos.clicar(self.elemento.LINK_CADASTRAR_NOVO_EMAIL)
+        self._comandos.scrolAteElemento(self.elemento.EMAIL)
+        time.sleep(10)
+        # self._comandos.clicar(self.elemento.EMAIL)
 
     def inserirUmNovoEmail(self, dado):
-        self._comandos.inserirDado(self.elemento.CAMPO_CADASTRAR_NOVO_EMAIL, dado)
-        self._comandos.clicar(self.elemento.BOTAO_OK_CADASTRAR_NOVO_EMAIL)
-        time.sleep(0.5)
+        self._comandos.inserirDado(self.elemento.EMAIL, dado)
+        self._comandos.clicar(self.elemento.BOTAO_TROCAR_EMAIL)
+
+    def validaModalSucesso(self):
+        assert_equal(self._comandos.obterTexto(self.elemento.TEXTO_MODAL), 'Sucesso')
         self._comandos.clicar(self.elemento.BOTAO_OK_CADASTRAR_NOVO_EMAIL)
 
-    #def inserirCodigoDeAtivacao(self, cpf):
+    def inserirCodigoDeAtivacao(self, cpf):
         #r = requests.get \
-            #("https://staging.telesena.com.br/api/manutencao/cliente/chave-ativacao/" + cpf,
-             #headers={"X-Token": "9F8FE311-0A1A-4A4B-93CB-13C81FCB3937"})
+          #  ("https://staging.amepremiada.com.br/api/manutencao/cliente/chave-ativacao/" + cpf,
+         #   headers={"X-Token": "9F8FE311-0A1A-4A4B-93CB-13C81FCB3937"})
 
-        todos = json.loads(r.content)
-
-        self._comandos.inserirDado(self.elemento.CAMPO_CONFIRMAR_CADASTRO, todos['chave'])
+        #todos = json.loads(r.content)
+        #todos['chave']
+        self._comandos.inserirDado(self.elemento.CODIGO1, 1111)
 
     def clicarNoBotaoDeConfirmarCadastro(self):
         self._comandos.clicar(self.elemento.BOTAO_CONFIRMAR_CADASTRO)

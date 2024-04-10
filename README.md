@@ -1,14 +1,17 @@
-Para rodar o projeto é necessário ter o Python 3.11 instalado na máquina.
+Para rodar o projeto é necessário ter a versão 3.11 do Python instalado em sua máquina.
 
-Instalar as dependencias do projeto, rodando o comando no terminal:
+## Installation
+1. Clone o projeto `(https://github.com/cap-ecruz/amepremiada-qa.git)`.
 
-    pip install -r requirements.txt
+2. Entre na pasta `cd amepremiada-qa` 
 
-Para o rodar os testes devemos rodar o comando no terminal:
+3. Rode o comando `pip install -r requirements.txt` para instalar as dependencias de desenvolvimento.
 
-    behave
+## Testes
+Para o rodar os testes devemos rodar, no terminal o comando:
+`behave` para rodar todos os scripts de teste,
+`behave  --tags=@barraDeslogado` para rodar apenas um script de teste (@barraDeslogado, por exemplo) ou
+`behave -f html -o behave-report.html` para rodar todos os scripts e gerar o relatório (report.html)
 
-ou para rodar os testes e gerar o relatório:
-
-    behave -f html -o behave-report.html
+    
 

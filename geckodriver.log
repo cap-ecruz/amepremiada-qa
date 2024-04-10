@@ -19880,3 +19880,44 @@ JavaScript warning: https://dev.amepremiada.com.br/polyfills.a4021de53358bb0fec1
 pDpN/o/se/i/n.args[0]@https://dev.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:32150
 
 Dynamically enable window occlusion 1
+1712767669833	geckodriver	INFO	Listening on 127.0.0.1:63266
+1712767672883	mozrunner::runner	INFO	Running command: "C:\\Users\\emanu\\.cache\\selenium\\firefox\\win64\\124.0.2\\firefox.exe" "--marionette" "--remote-debuggin ... 7" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\emanu\\AppData\\Local\\Temp\\rust_mozprofiledjRiTx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1712767673546	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712767673623	Marionette	INFO	Listening on port 63281
+WebDriver BiDi listening on ws://127.0.0.1:63267
+Read port: 63281
+1712767673785	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63267/devtools/browser/6f0c8282-ba61-40c1-8030-77966c754201
+JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://staging.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://staging.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 44: WebGL context was lost.
+1712767680723	Marionette	INFO	Stopped listening on port 63281
+JavaScript warning: https://staging.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
+pDpN/o/se/i/n.args[0]@https://staging.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:32150
+
+Dynamically enable window occlusion 1
+1712779311549	geckodriver	INFO	Listening on 127.0.0.1:54519
+1712779314605	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54520" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ecruz\\AppData\\Local\\Temp\\rust_mozprofileIC9Nf0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1712779315682	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712779315807	Marionette	INFO	Listening on port 54528
+WebDriver BiDi listening on ws://127.0.0.1:54520
+Read port: 54528
+1712779315890	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54520/devtools/browser/593895e2-002f-4603-91df-959f98faf70c
+JavaScript warning: https://dna.uol.com.br/js/dna.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://staging.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://staging.amepremiada.com.br/#/cadastro/passo-1.html line 1 > injectedScript, line 44: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://staging.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://staging.amepremiada.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://staging.amepremiada.com.br."
+1712779343328	Marionette	INFO	Stopped listening on port 54528
+JavaScript warning: https://staging.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js, line 1: Script terminated by timeout at:
+pDpN/o/se/i/n.args[0]@https://staging.amepremiada.com.br/polyfills.a4021de53358bb0fec14.js:1:32150
+
+Dynamically enable window occlusion 1

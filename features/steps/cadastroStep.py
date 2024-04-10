@@ -1,8 +1,10 @@
 import time
+from faker import Faker
 from behave import given, then, when
 from pages.cadastroPage import CadastroPage
 from utils.utils import Utils as info
 
+faker = Faker('pt_BR')
 
 @given(u'que estou na pagina cadastro passo1')
 def step_impl(context):
@@ -16,13 +18,14 @@ def step_impl(context):
 
 @when(u'E preencho o campo nome com dados {nome}')
 def step_impl(context, nome):
-    time.sleep(20)
+    time.sleep(5)
     context.cadastro.inserirNome(nome)
 
 
 @when(u'preencho o campo cpf na pagina login com usuario novo')
 def step_impl(context):
-    context.cadastro.inserirCPF(info.CPF_CADASTRADO)
+    context.cpf = faker.cpf()
+    context.cadastro.inserirCPF(context.cpf)
 
 
 @when(u'preencho o campo data de nascimento com dados {dados}')
@@ -49,14 +52,14 @@ def step_impl(context, dado):
 @when(u'clico em não no botao Você é uma pessoa politicamente exposta?')
 def step_impl(context):
     context.cadastro.clicarEmNaoPPE()
+    time.sleep(5)
 
-
-@when(u'verifico que o botao proximo passo esteja habilitado')
+@when(u'verifico que o botao proximo passo esteja habilitado 1')
 def step_impl(context):
-    context.cadastro.verificarBotaoProximoPassoAtivo()
+    context.cadastro.verificarBotaoProximoPasso1Ativo()
 
 
-@when(u'clico no botao proximo passo')
+@when(u'clico no botao proximo passo 1')
 def step_impl(context):
     context.cadastro.clicarNoBotaoProximoPasso()
 
@@ -68,12 +71,12 @@ def step_impl(context):
 
 @when(u'preencho o campo email valido')
 def step_impl(context):
-    context.cadastro.inserirEmail('lucas209910+' + info.CPF_CADASTRADO + '@gmail.com')
+    context.cadastro.inserirEmail('teste' + context.cpf + '@gmail.com')
 
 
 @when(u'preencho o campo confirme o seu email valido')
 def step_impl(context):
-    context.cadastro.inserirConfirmeEmail('lucas209910+' + info.CPF_CADASTRADO + '@gmail.com')
+    context.cadastro.inserirConfirmeEmail('teste' + context.cpf + '@gmail.com')
 
 
 @when(u'preencho o DDD com dados {dado}')
@@ -83,7 +86,7 @@ def step_impl(context, dado):
 
 @when(u'preencho o telefone valido com dados {dado}')
 def step_impl(context, dado):
-    context.cadastro.inserirPrincipal(dado)
+    context.cadastro.inserirTelefone(dado)
 
 
 @when(u'preencho o campo senha com dados valido')
@@ -96,14 +99,19 @@ def step_impl(context):
     context.cadastro.inserirConfSenha(info.SENHA_CADASTRADO)
 
 
-#@when(u'clico na opcao nao do campo autoriza o uso dos dados')
-#def step_impl(context):
-#    context.cadastro.clicarNoBotaoNaoAutorizoOUsoDosDados()
-
-
 @when(u'clico na opcao autorizar receber as comunicações')
 def step_impl(context):
     context.cadastro.clicarNoBotaoNaoAutorizoOUsoDosDados()
+
+
+@when(u'verifico que o botao proximo passo esteja habilitado 2')
+def step_impl(context):
+    context.cadastro.verificarBotaoProximoPasso2Ativo()
+
+
+@when(u'clico no botao proximo passo 2')
+def step_impl(context):
+    context.cadastro.clicarNoBotaoProximoPasso2()
 
 
 @when(u'valido o direcionamento para pagina cadastro passo3')
@@ -111,14 +119,11 @@ def step_impl(context):
     context.cadastro.verificarSeEstaNaPaginaCastroPasso3()
 
     
-@when(u'clico no campo trocar e-mail e reenviar código')
+@when(u'clico no campo trocar e-mail e inserir um email novo')
 def step_impl(context):
-    context.cadastro.clicarNoLinkCadastrarUmNovoEmail()
-
-
-@when(u'ao inserir um email novo')
-def step_impl(context):
-    context.cadastro.inserirUmNovoEmail(info.CPF_CADASTRADO + '@testuser.com')
+    context.cadastro.tabEmail()
+    context.cadastro.inserirUmNovoEmail(context.cpf + '@testuser.com')
+    context.cadastro.validaModalSucesso()
 
 
 @when(u'ao inserir o codigo de ativacao')

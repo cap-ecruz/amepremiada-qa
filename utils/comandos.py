@@ -1,5 +1,9 @@
 import time
+import requests
+import json
+from utils.urlPage import Paginas
 from abc import ABC
+from selenium.webdriver import ActionChains
 from selenium.common import TimeoutException
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -71,9 +75,12 @@ class Comandos(ABC):
     def inserirDado(self, locator, dado):
         elemento = self.espera.until(presence_of_element_located(locator))
         self.driver.execute_script("arguments[0].scrollIntoView();", elemento)
-        elemento.send_keys(dado + Keys.TAB)
-        # self.obterElemento(locator).send_keys(dado + Keys.TAB)
+        elemento.send_keys(dado)
 
     def apertarTAB(self, locator):
         self.clicar(locator)
         self.obterElemento(locator).send_keys(Keys.TAB)
+
+    def scrolAteElemento(self, locator):
+        elemento = self.obterElemento(locator)
+        ActionChains(self.driver).scroll_to_element(elemento).perform()
